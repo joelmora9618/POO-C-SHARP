@@ -1,0 +1,6 @@
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\bin\Debug\TodoLoAprendido.exe.config
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\bin\Debug\TodoLoAprendido.exe
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\bin\Debug\TodoLoAprendido.pdb
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\obj\Debug\TodoLoAprendido.csprojResolveAssemblyReference.cache
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\obj\Debug\TodoLoAprendido.exe
+C:\De la facu\POO C#\TodoLoAprendido\TodoLoAprendido\obj\Debug\TodoLoAprendido.pdb

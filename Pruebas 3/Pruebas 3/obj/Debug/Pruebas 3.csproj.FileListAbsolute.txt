@@ -1,0 +1,6 @@
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\bin\Debug\Pruebas 3.exe.config
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\bin\Debug\Pruebas 3.exe
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\bin\Debug\Pruebas 3.pdb
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\obj\Debug\Pruebas 3.csprojResolveAssemblyReference.cache
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\obj\Debug\Pruebas 3.exe
+C:\De la facu\POO C#\Pruebas 3\Pruebas 3\obj\Debug\Pruebas 3.pdb

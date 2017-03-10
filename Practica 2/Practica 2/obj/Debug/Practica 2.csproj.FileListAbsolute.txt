@@ -1,0 +1,6 @@
+C:\De la facu\POO C#\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\De la facu\POO C#\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\De la facu\POO C#\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\De la facu\POO C#\Practica 2\Practica 2\obj\Debug\Practica 2.csprojResolveAssemblyReference.cache
+C:\De la facu\POO C#\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\De la facu\POO C#\Practica 2\Practica 2\obj\Debug\Practica 2.pdb

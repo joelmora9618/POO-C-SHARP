@@ -1,0 +1,6 @@
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\bin\Debug\Todo lo aprendido 2.exe.config
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\bin\Debug\Todo lo aprendido 2.exe
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\bin\Debug\Todo lo aprendido 2.pdb
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\obj\Debug\Todo lo aprendido 2.exe
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\obj\Debug\Todo lo aprendido 2.pdb
+C:\De la facu\POO C#\Todo lo aprendido 2\Todo lo aprendido 2\obj\Debug\Todo lo aprendido 2.csprojResolveAssemblyReference.cache
